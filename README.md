@@ -23,7 +23,7 @@ LifecycleApp is an Android project that demonstrates the lifecycle callbacks of 
 
 ## Demo
 
-//TODO
+ <img src="asset/main.png" width="250" >
 
 ## Usage
 Launch the app to see the main activity's lifecycle callbacks.
